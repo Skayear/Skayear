@@ -72,7 +72,7 @@ Site Reliability Engineer desde Montevideo, Uruguay 🇺🇾, enfocado en automa
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Skayear&show_icons=true&include_all_commits=true&bg_color=f5e7c6&title_color=8b0000&text_color=3b2405&icon_color=c19a3d&border_color=8b5e17&rank_icon=github" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Skayear&layout=compact&bg_color=f5e7c6&title_color=8b0000&text_color=3b2405&border_color=8b5e17&langs_count=8" height="165" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=Skayear&background=f5e7c6&border=8b5e17&ring=8b0000&fire=d23b1e&currStreakNum=3b2405&sideNums=3b2405&currStreakLabel=8b0000&sideLabels=8b0000&dates=6b4a1f" alt="Contribution streak"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Skayear&background=f5e7c6&border=8b5e17&ring=8b0000&fire=d23b1e&currStreakNum=3b2405&sideNums=3b2405&currStreakLabel=8b0000&sideLabels=8b0000&dates=6b4a1f" alt="Contribution streak"/>
 
 </div>
 
